@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav Sharma, CSE @ BITS Pilani</h1>
+<h1 align="center">Hi👋 I'm Raghav Sharma, CSE @ BITS Pilani</h1>
 <h3 align="center">A passionate full stack web developer, building things that matter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0face13&label=Profile%20views&color=0e75b6&style=flat" alt="n0face13" /> </p>
