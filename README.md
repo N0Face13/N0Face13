@@ -4,7 +4,7 @@
 
 ### Computer Science Engineering @ BITS Pilani
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Things+That+Matter;MERN+Stack+Enthusiast;AI%2FML+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Things+That+Matter;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br>
 
