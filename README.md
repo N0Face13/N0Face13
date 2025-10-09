@@ -116,7 +116,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=n0face13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=n0face13&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=n0face13&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=0" alt="Top Languages" height="180"/>
 
 </div>
 
